@@ -1,3 +1,7 @@
-*.min.js
-!excanvas.min.js
-node_modules/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
