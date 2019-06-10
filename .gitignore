@@ -1,5 +1,7 @@
-node_modules/
-debug.log
-coverage/**
-dist/
-.vscode
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
